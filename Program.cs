@@ -6,4 +6,13 @@ class Program
     {
         
     }
+    static void SayHello()
+    {
+        System.Console.WriteLine("hello!");
+    }
+
+    static void SayBye()
+    {
+        System.Console.WriteLine("Bye");
+    }
 }
